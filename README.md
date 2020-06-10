@@ -1,6 +1,13 @@
 # lanplay-mac
 
 ## English
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install libpcap
+brew install switch-lan-play
+```
+
 `git clone https://github.com/tkgstrator/lanplay-mac`
 
 right click "lanplay-mac" and choose "New Terminal At Folder.
@@ -10,6 +17,12 @@ right click "lanplay-mac" and choose "New Terminal At Folder.
 If you can not run by permission denied, 'chmod +x lan-play'.
 
 ## Japanese
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install libpcap
+brew install switch-lan-play
+```
 
 ターミナルを開き、以下のコマンドを入力。
 
